@@ -1,0 +1,22 @@
+{
+  "bookIndex": 0,
+  "chapterIndex": 3,
+  "bookMeta": [
+    {
+      "path": "/Users/karan/Downloads/Code/Code/substackbot/assets/1.pdf",
+      "totalPages": 170,
+      "chaptersCount": 17
+    },
+    {
+      "path": "/Users/karan/Downloads/Code/Code/substackbot/assets/2.pdf",
+      "totalPages": 160,
+      "chaptersCount": 16
+    },
+    {
+      "path": "/Users/karan/Downloads/Code/Code/substackbot/assets/3.pdf",
+      "totalPages": 251,
+      "chaptersCount": 26
+    }
+  ],
+  "lastRunDate": "2026-02-27"
+}
